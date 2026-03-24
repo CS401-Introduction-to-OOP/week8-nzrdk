@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("generici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea3369d4695e08927a76cac3eeab6378c4a590f")]
 [assembly: System.Reflection.AssemblyProductAttribute("generici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("generici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
